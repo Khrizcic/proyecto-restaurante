@@ -13,7 +13,7 @@ const SideMenu = () => {
             </Link>
             <div className="side-menu-options">
                 <Link className="side-munu-link" to="#">
-                    <p>Configuraciones</p>
+                    <p>Configuracion</p>
                 </Link>
                 <Link className="side-munu-link" to="#">
                     <p>Cerrar Sesion</p>
