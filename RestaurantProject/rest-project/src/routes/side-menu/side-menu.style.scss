@@ -1,12 +1,14 @@
 .side-menu-container{
-    width: 150px;
+    width: 180px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
-.side-menu-options{
-    height: 50%;
+.side-menu-link{
+    cursor: pointer;
+    color: white;
 }
 
 .logo-icon{
